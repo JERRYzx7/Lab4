@@ -1,0 +1,40 @@
+	body{
+		text-align: center;
+		font-family: cursive;
+	}
+	.border{
+		border-width: 3px;
+		border-color: burlywood;
+		border-style: solid;
+		border-radius: 20px;
+		margin-right: 500px;
+		margin-left: 500px;
+		margin-bottom: 30%;
+		background-color: darkgoldenrod;
+
+	}
+
+	.num input{
+		width: 90%;
+		height: 20px;
+		margin: 5px 5px 5px 5px ;
+		border-radius: 15px;
+	}
+	.num select{
+		width: 90%;
+		height: 20px;
+		margin: 5px 5px 5px 5px ;
+		border-radius: 15px;
+		border-color: black;
+		border-width: 2px;
+	}
+	#run{
+		text-align: center;
+		outline: 2px solid darkgoldenrod;
+		width: 200px;
+		background-color: #DAA06D;
+		color: whitesmoke;
+		margin: auto;
+
+	}
+
